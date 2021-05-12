@@ -2,5 +2,5 @@
 
 Original code: Thushara Wedagedara
 
-To accompany blog post: https://blogs.embarcadero.com/easily-build-powerful-cross-platform-dashboards-for-windows-mobile-and-the-web/
+To accompany blog post: https://blogs.embarcadero.com/use-fnc-pack-to-easily-build-powerful-dashboard-apps-for-windows-mobile-and-the-web/
 
